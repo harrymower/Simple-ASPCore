@@ -7,7 +7,7 @@ deployed by AWS CodeDeploy to an Amazon EC2 server.
 What's Here
 -----------
 
-This sample includes:
+This sample includes: a lot of cool things that Harry just added
 
 * README.md - this file
 * appspec.yml - this file is used by AWS CodeDeploy when deploying the web
